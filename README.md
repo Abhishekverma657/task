@@ -20,10 +20,8 @@ Clone the repository:
 git clone https://github.com/Abhishekverma657/task.git
 ```
 
-Navigate to the project directory:
-```bash
-cd flutter-country-info-app
-```
+ 
+ 
 
 Install dependencies:
 ```bash
@@ -43,13 +41,6 @@ flutter run
 - [provider](https://pub.dev/packages/provider) - for state management
 - [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) - for setting app icons
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature`)
-6. Create a new Pull Request
+ 
 
  
